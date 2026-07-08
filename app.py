@@ -84,4 +84,5 @@ st.header("💻 Developer Corner")
 
 st.markdown("""
 **Developer:** Ayush Kumar Tiwari
+""")
 
