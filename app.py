@@ -84,6 +84,7 @@ st.header("💻 About Developer")
 
 st.markdown("""
 **Developer:** Ayush Kumar Tiwari
+
 🔗 **LinkedIn:** https://www.linkedin.com/in/ayush-tiwari-80a3b031b/
 
 💻 **GitHub:** https://github.com/ayush7302
